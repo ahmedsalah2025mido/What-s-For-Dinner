@@ -1,0 +1,54 @@
+body{
+    background-color: #FFF9EC;
+    font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
+}
+
+.nav-logo{
+    width: 50px;
+    height: 50px;
+    background-color: #FF5113;
+}
+.fs-7{
+    font-size: 0.875rem;
+}
+
+.navbar-nav a img{
+    width:40px;
+    height: 40px;
+}
+.container{
+    width: 85%;
+}
+.content{
+    height: 100vh;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    overflow: hidden;
+}
+
+.nav-pills .nav-link{
+    color:#364153;
+}
+
+.nav-pills .nav-link.active{
+    background-color: white;
+    color:#FF5113;
+    border-bottom: 2px solid #FF5113;
+}
+.my-tab-content{
+    background-color: #FFF9EC;
+    height:280px;
+    overflow-y: auto;
+    border-radius: 12px;
+    line-height: 1.5;
+    font-size: 1rem;
+    padding: 1rem;
+}
+.nutrition-card{
+    background-color: #F9FAFB;
+}
+.nutrition-card h5{
+    font-size: 0.875rem;
+    color: #364153;
+}
